@@ -21,8 +21,6 @@ dependencies:
   device_info_plus: ^4.1.2
   dio: ^4.0.6
   dio_http_cache_lts: ^0.4.1
-  dynamic_color: ^1.5.4
-  dynamic_themes: ^1.1.0
   expandable: ^5.0.1
   file_picker:
     git:
